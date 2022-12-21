@@ -1,0 +1,18 @@
+nav{
+    background-color: #F55A5A;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    text-align: center;
+    color: white;
+    position: sticky;
+    z-index: 1;
+    top: 0;
+}
+
+
+.nav-bar--logo{
+    width: 25px;
+    height: 25px;
+    margin: 12px 5px;
+}
